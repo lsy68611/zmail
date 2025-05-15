@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
           <p className="mb-2">© {year} {t('app.title')}</p>
           <div className="flex justify-center items-center space-x-4">
             <a 
-              href="https://zaunist.com" 
+              href="https://qiqudi.com" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors"
